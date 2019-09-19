@@ -1,0 +1,11 @@
+1 Grass Absorb
+1 Normal Feint
+1 Normal Harden
+1 Normal Leer
+1 Dark Night Slash
+1 Normal Scratch
+1 Grass Absorb
+11 Normal Leer
+16 Ground Mud Shot
+21 Ground Sand Attack
+26 Normal Endure

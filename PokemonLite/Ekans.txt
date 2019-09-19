@@ -1,0 +1,9 @@
+1 Normal Leer
+1 Normal Wrap
+4 Poison Poison Sting
+9 Dark Bite
+12 Normal Glare
+17 Normal Screech
+20 Poison Acid
+25 Normal Spit Up
+25 Normal Stockpile

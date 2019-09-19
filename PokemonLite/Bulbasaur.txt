@@ -1,0 +1,9 @@
+1 Normal Tackle
+3 Normal Growl
+7 Grass Leech Seed
+9 Grass Vine Whip
+13 PoisonPoison Powder
+13 Grass Sleep Powder
+15 Normal Take Down
+19 Grass Razor Leaf
+21 Normal Sweet Scent

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=nom\ lvl\ cHp\ tHp\ cExp\ tExp\ s
+comment0.target=InfoBar(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ java.lang.String)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ ifHealthLow()
+comment2.text=\r\n\ This\ method\ cahgnes\ the\ pictures\ of\ the\ health\ bar\ color\ as\ the\ health\ reachs\ a\ point\r\n
+comment3.params=total\ changed
+comment3.target=void\ updateHealth(int,\ int)
+comment3.text=\r\n\ This\ method\ writes\ the\ numbers\ of\ the\ health\ above\ the\ health\ bare\ and\ covers\ it\ as\ a\ percentage\r\n\ @param\ total\ is\ a\ int\ of\ total\ health\ possible\r\n\ @param\ changed\ is\ a\ int\ of\ the\ new\ health\ value\r\n
+comment4.params=
+comment4.target=void\ displayName()
+comment4.text=\r\n\ This\ method\ writes\ the\ name\ of\ the\ pokemon\ as\ a\ txt\ string\r\n
+comment5.params=
+comment5.target=void\ displayLevel()
+comment5.text=\r\n\ This\ method\ writes\ the\ level\ of\ the\ pokemon\ as\ a\ int\ string\r\n
+comment6.params=amtChange
+comment6.target=void\ changeHp(int)
+comment6.text=\r\n\ This\ method\ that\ changes\ the\ health\ bar\ piece\ by\ piece\r\n\ @param\ amtChange\ is\ a\ int\ \ that\ is\ the\ amount\ of\ health\ being\ changed\r\n
+comment7.params=total\ changed
+comment7.target=void\ updateExp(int,\ int)
+comment7.text=\r\n\ This\ method\ that\ chagnes\ the\ exp\ bar\ by\ the\ amount\ given\r\n\ @param\ total\ is\ the\ total\ amount\ of\ exp\r\n\ @param\ changed\ is\ the\ amount\ of\ exp\ being\ given\r\n
+comment8.params=amtChange
+comment8.target=void\ changeExp(int)
+comment8.text=\r\n\ This\ method\ that\ cahgnes\ the\ exp\ bar\ piece\ by\ piece\r\n\ @param\ amtChange\ is\ a\ int\ that\ is\ the\ amount\ of\ exp\ being\ changed\r\n
+numComments=9

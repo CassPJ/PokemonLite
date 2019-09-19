@@ -1,0 +1,7 @@
+1 Normal Harden
+1 Normal Scratch
+6 Grass Absorb
+11 Normal Leer
+16 Ground Mud Shot
+21 Ground Sand Attack
+26 Normal Endure
